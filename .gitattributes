@@ -1,0 +1,11 @@
+# Shopify theme files
+*.liquid linguist-language=Liquid
+
+# JavaScript files
+*.js linguist-language=JavaScript
+
+# Ensure JS is detected
+assets/*.js linguist-detectable=true
+
+# Documentation files
+*.md linguist-documentation=true
