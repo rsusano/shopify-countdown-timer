@@ -1,0 +1,31 @@
+# Operating System
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+.cache/
+
+# Environment
+.env
+.env.local
+
+# Archives
+*.zip
+*.tar.gz
+
+# Design files (originals)
+*.psd
+*.ai
+*.sketch
