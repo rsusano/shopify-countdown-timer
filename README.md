@@ -35,7 +35,6 @@
 - Separate mobile font sizes and spacing
 - Touch-friendly interface
 
-![Example](https://github.com/rsusano/shopify-countdown-timer/blob/0943e029313970e48c2770548802517837e08dc6/countdown-timer.png)
 ---
 
 ## 🚀 Quick Start
@@ -146,7 +145,7 @@ shopify-countdown-timer/
 
 ## 📸 Screenshots
 
-> Add your screenshots in `docs/images/`
+> Add your screenshots in `![Example](https://github.com/rsusano/shopify-countdown-timer/blob/0943e029313970e48c2770548802517837e08dc6/countdown-timer.png)`
 
 ---
 
