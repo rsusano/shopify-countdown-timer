@@ -34,6 +34,7 @@
 - Mobile-optimized layouts
 - Separate mobile font sizes and spacing
 - Touch-friendly interface
+<br>
 ![Example](https://github.com/rsusano/shopify-countdown-timer/blob/0943e029313970e48c2770548802517837e08dc6/countdown-timer.png)
 ---
 
